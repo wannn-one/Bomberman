@@ -1,0 +1,18 @@
+#ifndef TYPES_H
+#define TYPES_H
+
+namespace TT {
+	enum TileType
+	{
+		NONE,
+		NONE_WITH_SHADOW,
+		WEAK_WALL,
+		DOUBLE_WEAK_WALL,
+		INDESTRUCTIBLE_WALL,
+		DOUBLE_INDESTRUCTIBLE_WALL,
+		HALF_INDESTRUCTIBLE_WALL,
+		BOMB,
+		COUNT
+	};
+}
+#endif
