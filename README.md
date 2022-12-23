@@ -40,3 +40,5 @@ Use your *movement keys* to move and *action key* to place a bomb
     ```
     ./Bomberman
     ```
+- Windows
+    - Be developed soon. (This game developed by Linux Ubuntu 22.04 LTS)
